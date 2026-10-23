@@ -1,0 +1,15 @@
+{
+	"name": "RgAdfCaresync10",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7457b2e5-aa47-4cbc-8647-6e14c88ff815",
+		"tenantId": "9a46376f-446b-479e-999a-c7ed2c212565"
+	}
+}
